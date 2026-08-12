@@ -57,6 +57,7 @@ My ultimate goal is to become a **Cyber Investigator**. I am highly motivated to
 ### 🔒 Cybersecurity Lab Portfolio
 *(Links will be updated as repositories are published)*
 *   [CyberSecurity: Nmap Network Scanning 🔍](https://github.com/RootCipherX/cybersecurity-nmap-network-scanning) - Host discovery and port scanning reconnaissance.
+*   [CyberSecurity: Snort IDS Configuration & Traffic Analysis 🚨](https://github.com/RootCipherX/cybersecurity-snort-ids-configuration) - Real-time network traffic monitoring and custom intrusion detection rules.
 *   [CyberSecurity: Nessus Vulnerability Assessment 🛡️](#) - Automated vulnerability scanning and remediation planning.
 *   [CyberSecurity: Metasploit Shells 💥](#) - Exploitation and post-exploitation techniques.
 *   [CyberSecurity: Wazuh & Splunk SIEM 📊](#) - Log analysis and security event monitoring.
