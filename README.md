@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm Dhananjay (Arjun) 👋 🕵️‍♂️
+# Hi there, I'm Dhananjay (Arjun) Deshpande 👋 🕵️‍♂️
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Network+Engineer;Cloud+Computing+Enthusiast;Future+Cyber+Investigator;Securing+the+Digital+Frontier" alt="Typing SVG" />
