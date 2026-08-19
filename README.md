@@ -60,6 +60,7 @@ My ultimate goal is to become a **Cyber Investigator**. I am highly motivated to
 *   [CyberSecurity: Nmap Network Scanning 🔍](https://github.com/RootCipherX/cybersecurity-nmap-network-scanning) - Host discovery and port scanning reconnaissance.
 *   [CyberSecurity: Snort IDS Configuration & Traffic Analysis 🚨](https://github.com/RootCipherX/cybersecurity-snort-ids-configuration) - Real-time network traffic monitoring and custom intrusion detection rules.
 *   [CyberSecurity: Metasploit Vulnerability Assessment & Exploitation 💥](https://github.com/RootCipherX/cybersecurity-metasploit-vulnerability-assessment) - Hands-on exploitation and post-exploitation using Metasploit Framework.
+*   [CyberSecurity: Wireshark Installation & Hardening 🦈](https://github.com/RootCipherX/cybersecurity-wireshark-installation-guide) - Package installation, dependency resolution, and non-root privilege hardening.
 *   [CyberSecurity: Nessus Vulnerability Assessment 🛡️](#) - Automated vulnerability scanning and remediation planning.
 *   [CyberSecurity: Wazuh & Splunk SIEM 📊](#) - Log analysis and security event monitoring.
 
