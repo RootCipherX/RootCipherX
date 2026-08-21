@@ -62,6 +62,7 @@ My ultimate goal is to become a **Cyber Investigator**. I am highly motivated to
 *   [CyberSecurity: Metasploit Vulnerability Assessment & Exploitation 💥](https://github.com/RootCipherX/cybersecurity-metasploit-vulnerability-assessment) - Hands-on exploitation and post-exploitation using Metasploit Framework.
 *   [CyberSecurity: Wireshark Installation & Hardening 🦈](https://github.com/RootCipherX/cybersecurity-wireshark-installation-guide) - Package installation, dependency resolution, and non-root privilege hardening.
 *   [CyberSecurity: DVWA File Inclusion (LFI & RFI) Analysis 📂](https://github.com/RootCipherX/cybersecurity-dvwa-file-inclusion-analysis) - Practical exploitation and defense analysis of Local and Remote File Inclusion vulnerabilities.
+*   [CyberSecurity: Burp Suite Environment Reset 🕷️](https://github.com/RootCipherX/cybersecurity-burpsuite-environment-reset) - Advanced Linux package management, dependency cleanup, and clean environment deployment.
 *   [CyberSecurity: Nessus Vulnerability Assessment 🛡️](#) - Automated vulnerability scanning and remediation planning.
 *   [CyberSecurity: Wazuh & Splunk SIEM 📊](#) - Log analysis and security event monitoring.
 
