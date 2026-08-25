@@ -64,6 +64,7 @@ My ultimate goal is to become a **Cyber Investigator**. I am highly motivated to
 *   [CyberSecurity: DVWA File Inclusion (LFI & RFI) Analysis 📂](https://github.com/RootCipherX/cybersecurity-dvwa-file-inclusion-analysis) - Practical exploitation and defense analysis of Local and Remote File Inclusion vulnerabilities.
 *   [CyberSecurity: Burp Suite Environment Reset 🕷️](https://github.com/RootCipherX/cybersecurity-burpsuite-environment-reset) - Advanced Linux package management, dependency cleanup, and clean environment deployment.
 *   [CyberSecurity: Splunk Enterprise SIEM Deployment 📊](https://github.com/RootCipherX/cybersecurity-splunk-enterprise-deployment) - End-to-end provisioning, Windows MSI installation, and SIEM dashboard configuration.
+*   [CyberSecurity: DVWA Enterprise LAMP Deployment 🌐](https://github.com/RootCipherX/cybersecurity-dvwa-lamp-deployment) - Complete infrastructure deployment of DVWA on a Linux Apache, MariaDB, and PHP stack.
 *   [CyberSecurity: Nessus Vulnerability Assessment 🛡️](#) - Automated vulnerability scanning and remediation planning.
 *   [CyberSecurity: Wazuh & Splunk SIEM 📊](#) - Log analysis and security event monitoring.
 
