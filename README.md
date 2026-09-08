@@ -68,6 +68,7 @@ My ultimate goal is to become a **Cyber Investigator**. I am highly motivated to
 *   [CyberSecurity: Splunk Apache Log Analysis 📈](https://github.com/RootCipherX/cybersecurity-splunk-apache-log-analysis) - Advanced SIEM data ingestion, custom SPL query construction, and executive dashboard visualization.
 *   [CyberSecurity: Wazuh XDR & SIEM Deployment 🛡️](https://github.com/RootCipherX/cybersecurity-wazuh-xdr-deployment) - Infrastructure deployment, UFW network troubleshooting, and security event monitoring.
 *   [CyberSecurity: Windows Event ID Analyst Guide 📋](https://github.com/RootCipherX/cybersecurity-windows-event-id-analyst-guide) - Comprehensive Blue Team reference for Windows telemetry, security auditing, and SIEM hunting.
+*   [CyberSecurity: Sysmon Threat Hunting & Telemetry Guide 🔍](https://github.com/RootCipherX/cybersecurity-sysmon-threat-hunting-guide) - Comprehensive Blue Team field guide covering Microsoft Sysinternals Sysmon telemetry, process tracing, and SIEM hunting rules.
 *   [CyberSecurity: Nessus Vulnerability Assessment 🛡️](#) - Automated vulnerability scanning and remediation planning.
 *   [CyberSecurity: Wazuh & Splunk SIEM 📊](#) - Log analysis and security event monitoring.
 
