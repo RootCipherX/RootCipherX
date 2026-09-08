@@ -67,6 +67,7 @@ My ultimate goal is to become a **Cyber Investigator**. I am highly motivated to
 *   [CyberSecurity: DVWA Enterprise LAMP Deployment 🌐](https://github.com/RootCipherX/cybersecurity-dvwa-lamp-deployment) - Complete infrastructure deployment of DVWA on a Linux Apache, MariaDB, and PHP stack.
 *   [CyberSecurity: Splunk Apache Log Analysis 📈](https://github.com/RootCipherX/cybersecurity-splunk-apache-log-analysis) - Advanced SIEM data ingestion, custom SPL query construction, and executive dashboard visualization.
 *   [CyberSecurity: Wazuh XDR & SIEM Deployment 🛡️](https://github.com/RootCipherX/cybersecurity-wazuh-xdr-deployment) - Infrastructure deployment, UFW network troubleshooting, and security event monitoring.
+*   [CyberSecurity: Windows Event ID Analyst Guide 📋](https://github.com/RootCipherX/cybersecurity-windows-event-id-analyst-guide) - Comprehensive Blue Team reference for Windows telemetry, security auditing, and SIEM hunting.
 *   [CyberSecurity: Nessus Vulnerability Assessment 🛡️](#) - Automated vulnerability scanning and remediation planning.
 *   [CyberSecurity: Wazuh & Splunk SIEM 📊](#) - Log analysis and security event monitoring.
 
