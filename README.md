@@ -70,9 +70,10 @@ My ultimate goal is to become a **Cyber Investigator**. I am highly motivated to
 *   [CyberSecurity: DVWA Enterprise LAMP Deployment 🌐](https://github.com/RootCipherX/cybersecurity-dvwa-lamp-deployment) - Complete infrastructure deployment of DVWA on a Linux Apache, MariaDB, and PHP stack.
 *   [CyberSecurity: Splunk Apache Log Analysis 📈](https://github.com/RootCipherX/cybersecurity-splunk-apache-log-analysis) - Advanced SIEM data ingestion, custom SPL query construction, and executive dashboard visualization.
 *   [CyberSecurity: Wazuh XDR & SIEM Deployment 🛡️](https://github.com/RootCipherX/cybersecurity-wazuh-xdr-deployment) - Infrastructure deployment, UFW network troubleshooting, and security event monitoring.
+*   [CyberSecurity: Wazuh Agent Deployment on Kali Linux 🛡️](https://github.com/RootCipherX/cybersecurity-wazuh-agent-kali-deployment) - Endpoint enrollment, UFW network rule orchestration, and centralized telemetry monitoring.
+*   [CyberSecurity: Wazuh File Integrity Monitoring (FIM) 🛡️](https://github.com/RootCipherX/cybersecurity-wazuh-file-integrity-monitoring) - Real-time file auditing, inotify configuration, cryptographic diff tracking, and MITRE ATT&CK correlation.
 *   [CyberSecurity: Windows Event ID Analyst Guide 📋](https://github.com/RootCipherX/cybersecurity-windows-event-id-analyst-guide) - Comprehensive Blue Team reference for Windows telemetry, security auditing, and SIEM hunting.
 *   [CyberSecurity: Sysmon Threat Hunting & Telemetry Guide 🔍](https://github.com/RootCipherX/cybersecurity-sysmon-threat-hunting-guide) - Comprehensive Blue Team field guide covering Microsoft Sysinternals Sysmon telemetry, process tracing, and SIEM hunting rules.
-*   [CyberSecurity: Wazuh Agent Deployment on Kali Linux 🛡️](https://github.com/RootCipherX/cybersecurity-wazuh-agent-kali-deployment) - Endpoint enrollment, UFW network rule orchestration, and centralized telemetry monitoring.
 
 
 
