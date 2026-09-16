@@ -94,7 +94,6 @@ My ultimate goal is to become a **Cyber Investigator**. I am highly motivated to
 
 
 
-
 # Hi there, I'm Dhananjay (Arjun) Deshpande 👋 🕵️‍♂️
 
 <div align="center">
@@ -103,7 +102,6 @@ My ultimate goal is to become a **Cyber Investigator**. I am highly motivated to
   <p align="center">
     <a href="https://linkedin.com/in/dhananjay-io"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://medium.com/@RootCipherX"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-    <!-- <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> -->
   </p>
 </div>
 
@@ -115,7 +113,7 @@ I am an Infrastructure & Systems Engineer transitioning into offensive and defen
 
 My focus is on **Detection Engineering, SIEM Architecture, and Cyber Investigations**.
 
-* 🔭 **Active Projects:** Documenting 14+ enterprise-grade cybersecurity labs covering SIEM deployment, FIM real-time tracking, packet triage, and endpoint telemetry.
+* 🔭 **Active Projects:** Documenting 15+ enterprise-grade cybersecurity labs covering SIEM deployment, FIM real-time tracking, packet triage, and endpoint telemetry.
 * 🌱 **Specializations:** Threat Hunting, SIEM Engineering (Splunk, Wazuh), Kernel Telemetry (Sysmon), and In-Depth Network Forensics.
 * ⚡ **Core Advantage:** Command-line fluency across Linux systemd services, UFW packet filtering, socket diagnostics (`ss`), and live network traffic reconstruction.
 
@@ -138,11 +136,12 @@ My focus is on **Detection Engineering, SIEM Architecture, and Cyber Investigati
 
 | Repository | Focus & Methodology | Primary Tech |
 | :--- | :--- | :--- |
+| [**Splunk SSH Log Analysis**](https://github.com/RootCipherX/cybersecurity-splunk-ssh-log-analysis) | Authentication log auditing, brute-force detection, targeted user triage, and geographic IP mapping. | `Splunk` `SPL` `SSH` `Threat Hunting` |
+| [**Splunk Apache Log Analysis**](https://github.com/RootCipherX/cybersecurity-splunk-apache-log-analysis) | Ingestion of JSON web logs, custom SPL queries, status code analytics, and Choropleth mapping. | `Splunk` `SPL` `Apache` |
+| [**Splunk SIEM Deployment**](https://github.com/RootCipherX/cybersecurity-splunk-enterprise-deployment) | Local SIEM instance provisioning, Windows service binding, and baseline analytics workspace. | `Splunk Enterprise` `Windows` |
 | [**Wazuh File Integrity Monitoring**](https://github.com/RootCipherX/cybersecurity-wazuh-file-integrity-monitoring) | Real-time inotify file monitoring, cryptographic checksum diffs, and MITRE ATT&CK correlation. | `Wazuh` `inotify` `Syscheck` |
 | [**Wazuh Kali Agent Deployment**](https://github.com/RootCipherX/cybersecurity-wazuh-agent-kali-deployment) | Monitored endpoint provisioning, systemd automation, and UFW server port rules. | `Wazuh Agent` `Linux` `UFW` |
 | [**Wazuh XDR & SIEM Deployment**](https://github.com/RootCipherX/cybersecurity-wazuh-xdr-deployment) | Complete central stack provisioning, service validation, and UFW firewall troubleshooting. | `Wazuh Server` `Ubuntu` `XDR` |
-| [**Splunk Apache Log Analysis**](https://github.com/RootCipherX/cybersecurity-splunk-apache-log-analysis) | Ingestion of JSON web logs, custom SPL queries, status code analytics, and Choropleth mapping. | `Splunk` `SPL` `Apache` |
-| [**Splunk SIEM Deployment**](https://github.com/RootCipherX/cybersecurity-splunk-enterprise-deployment) | Local SIEM instance provisioning, Windows service binding, and baseline analytics workspace. | `Splunk Enterprise` `Windows` |
 | [**Sysmon Threat Hunting Guide**](https://github.com/RootCipherX/cybersecurity-sysmon-threat-hunting-guide) | Detection engineering field guide for process trees, memory access, and C2 communication. | `Sysmon` `KQL` `Threat Hunting` |
 | [**Windows Event ID Guide**](https://github.com/RootCipherX/cybersecurity-windows-event-id-analyst-guide) | SOC operational handbook mapping core Windows security IDs to SIEM query parameters. | `Active Directory` `WinEventLog` |
 
@@ -169,15 +168,14 @@ My focus is on **Detection Engineering, SIEM Architecture, and Cyber Investigati
 
 <div align="center">
   <a href="https://github.com/RootCipherX">
-    <img src="https://github-readme-stats.vercel.app/api?username=RootCipherX&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&locale=en" alt="RootCipherX's GitHub Stats" />
-  </a>
-  <a href="https://github.com/RootCipherX">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=RootCipherX&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
   </a>
 </div>
 
+<br>
+
 <div align="center">
   <a href="https://github.com/RootCipherX">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RootCipherX&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Languages" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RootCipherX&theme=tokyo-night&hide_border=true&area=true&border_radius=8" alt="Activity Graph" />
   </a>
 </div>
