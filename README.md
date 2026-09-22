@@ -147,7 +147,7 @@ My focus is on **Detection Engineering, SIEM Architecture, and Cyber Investigati
 
 | Repository | Focus & Methodology | Primary Tech |
 | :--- | :--- | :--- |
-| [**PortSwigger Username Enumeration**](https://github.com/RootCipherX/portswigger-username-enumeration-via-different-responses) | Exploiting authentication response differentials and password brute-forcing with Burp Intruder. | `Burp Suite` `AppSec` `Web Security` |
+| [**PortSwigger Username Enumeration**](https://github.com/RootCipherX/cybersecurity-portswigger-username-enumeration-via-different-responses) | Exploiting authentication response differentials and password brute-forcing with Burp Intruder. | `Burp Suite` `AppSec` `Web Security` |
 | [**Metasploit Exploitation**](https://github.com/RootCipherX/cybersecurity-metasploit-vulnerability-assessment) | Service vulnerability analysis, multi-stage payload delivery, and post-exploitation triage. | `Metasploit` `Kali Linux` |
 | [**DVWA File Inclusion Analysis**](https://github.com/RootCipherX/cybersecurity-dvwa-file-inclusion-analysis) | Hands-on execution and defensive auditing of Local (LFI) and Remote (RFI) inclusion flaws. | `PHP` `AppSec` `Web Security` |
 | [**DVWA Enterprise LAMP Setup**](https://github.com/RootCipherX/cybersecurity-dvwa-lamp-deployment) | Deploying vulnerable web architectures on Apache, MariaDB, and hardened PHP runtimes. | `LAMP Stack` `Linux` `Database` |
