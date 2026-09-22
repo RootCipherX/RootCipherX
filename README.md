@@ -92,8 +92,6 @@ My ultimate goal is to become a **Cyber Investigator**. I am highly motivated to
 
 
 
-
-
 # Hi there, I'm Dhananjay (Arjun) Deshpande 👋 🕵️‍♂️
 
 <div align="center">
@@ -113,7 +111,7 @@ I am an Infrastructure & Systems Engineer transitioning into offensive and defen
 
 My focus is on **Detection Engineering, SIEM Architecture, and Cyber Investigations**.
 
-* 🔭 **Active Projects:** Documenting 15+ enterprise-grade cybersecurity labs covering SIEM deployment, FIM real-time tracking, packet triage, and endpoint telemetry.
+* 🔭 **Active Projects:** Documenting 16+ enterprise-grade cybersecurity labs covering SIEM deployment, FIM real-time tracking, packet triage, and endpoint telemetry.
 * 🌱 **Specializations:** Threat Hunting, SIEM Engineering (Splunk, Wazuh), Kernel Telemetry (Sysmon), and In-Depth Network Forensics.
 * ⚡ **Core Advantage:** Command-line fluency across Linux systemd services, UFW packet filtering, socket diagnostics (`ss`), and live network traffic reconstruction.
 
@@ -149,6 +147,7 @@ My focus is on **Detection Engineering, SIEM Architecture, and Cyber Investigati
 
 | Repository | Focus & Methodology | Primary Tech |
 | :--- | :--- | :--- |
+| [**PortSwigger Username Enumeration**](https://github.com/RootCipherX/portswigger-username-enumeration-via-different-responses) | Exploiting authentication response differentials and password brute-forcing with Burp Intruder. | `Burp Suite` `AppSec` `Web Security` |
 | [**Metasploit Exploitation**](https://github.com/RootCipherX/cybersecurity-metasploit-vulnerability-assessment) | Service vulnerability analysis, multi-stage payload delivery, and post-exploitation triage. | `Metasploit` `Kali Linux` |
 | [**DVWA File Inclusion Analysis**](https://github.com/RootCipherX/cybersecurity-dvwa-file-inclusion-analysis) | Hands-on execution and defensive auditing of Local (LFI) and Remote (RFI) inclusion flaws. | `PHP` `AppSec` `Web Security` |
 | [**DVWA Enterprise LAMP Setup**](https://github.com/RootCipherX/cybersecurity-dvwa-lamp-deployment) | Deploying vulnerable web architectures on Apache, MariaDB, and hardened PHP runtimes. | `LAMP Stack` `Linux` `Database` |
