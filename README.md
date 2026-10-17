@@ -90,12 +90,10 @@ My ultimate goal is to become a **Cyber Investigator**. I am highly motivated to
 
 
 
-
-
-# Hi there, I'm Dhananjay (Arjun) Deshpande 👋 🕵️‍♂️
+# Hi there, I'm Dhananjay (Arjun) Deshpande 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=Network+Engineer;Threat+Hunting+%26+SIEM+Specialist;Future+Cyber+Investigator;Securing+Modern+Enterprises" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=Network+%26+Systems+Engineer;Hands-on+Cybersecurity+Labs;Cloud+%26+Linux+Administration;SIEM+%26+Threat+Detection" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://linkedin.com/in/dhananjay-io"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -107,47 +105,54 @@ My ultimate goal is to become a **Cyber Investigator**. I am highly motivated to
 
 ### 🚀 About Me
 
-I am an Infrastructure & Systems Engineer transitioning into offensive and defensive cybersecurity operations. With a strong background in routing, switching, and Linux systems administration, I analyze security from the foundation up—understanding how network infrastructure is engineered allows me to effectively anticipate how it can be bypassed, hardened, and forensically investigated.
+I am a Network and Systems Engineer with a strong foundation in routing, switching, and Linux administration, building practical experience across defensive and offensive security operations. Understanding how enterprise infrastructure is built and managed allows me to approach security from an architectural standpoint.
 
-My focus is on **Detection Engineering, SIEM Architecture, and Cyber Investigations**.
+My current focus is on **Network Security, SIEM Operations, Cloud Identity (IAM), and Practical Telemetry Analysis**.
 
-* 🔭 **Active Projects:** Documenting 16+ enterprise-grade cybersecurity labs covering SIEM deployment, FIM real-time tracking, packet triage, and endpoint telemetry.
-* 🌱 **Specializations:** Threat Hunting, SIEM Engineering (Splunk, Wazuh), Kernel Telemetry (Sysmon), and In-Depth Network Forensics.
-* ⚡ **Core Advantage:** Command-line fluency across Linux systemd services, UFW packet filtering, socket diagnostics (`ss`), and live network traffic reconstruction.
+* 🔭 **Active Projects:** Documenting 18+ hands-on labs covering SIEM engineering, cloud account hardening, packet inspection, and web application security.
+* 🌱 **Current Focus:** Telemetry pipeline configuration (Sysmon, Wazuh), log analysis (Splunk), and AWS identity governance.
+* ⚡ **Core Skills:** Command-line administration across Linux systemd services, UFW firewall configurations, networking protocols, and traffic analysis.
 
 ---
 
-### 🛠️ Technical Arsenal & Frameworks
+### 🛠️ Technical Skills & Tools
 
 | Domain | Technologies & Certifications |
 | :--- | :--- |
 | **Networking & Systems** | ![CCNA](https://img.shields.io/badge/CCNA-005073?style=flat-square&logo=cisco&logoColor=white) ![RHCSA](https://img.shields.io/badge/RHCSA-CC0000?style=flat-square&logo=redhat&logoColor=white) ![MCSA](https://img.shields.io/badge/MCSA-0078D6?style=flat-square&logo=microsoft&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| **SIEM, XDR & Telemetry** | ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=wazuh&logoColor=white) ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white) ![Sysmon](https://img.shields.io/badge/Sysinternals_Sysmon-0078D4?style=flat-square&logo=windows&logoColor=white) ![Snort](https://img.shields.io/badge/Snort_IDS-FF6600?style=flat-square&logo=snort&logoColor=white) |
-| **Security Assessment & Ops**| ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-11324D?style=flat-square&logo=metasploit&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) |
-| **Cloud Computing** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) |
+| **SIEM & Endpoint Telemetry** | ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=wazuh&logoColor=white) ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white) ![Sysmon](https://img.shields.io/badge/Sysinternals_Sysmon-0078D4?style=flat-square&logo=windows&logoColor=white) ![Snort](https://img.shields.io/badge/Snort_IDS-FF6600?style=flat-square&logo=snort&logoColor=white) |
+| **Security Assessment** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-11324D?style=flat-square&logo=metasploit&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) |
+| **Cloud Infrastructure** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) |
 
 ---
 
-### 🔒 Enterprise Cybersecurity Lab Portfolio
+### 🔒 Hands-on Cybersecurity Lab Portfolio
 
-#### 🛡️ SIEM, Telemetry & Detection Engineering
+#### ☁️ Cloud Security & Identity Management (IAM)
 
 | Repository | Focus & Methodology | Primary Tech |
 | :--- | :--- | :--- |
-| [**Splunk SSH Log Analysis**](https://github.com/RootCipherX/cybersecurity-splunk-ssh-log-analysis) | Authentication log auditing, brute-force detection, targeted user triage, and geographic IP mapping. | `Splunk` `SPL` `SSH` `Threat Hunting` |
-| [**Splunk Apache Log Analysis**](https://github.com/RootCipherX/cybersecurity-splunk-apache-log-analysis) | Ingestion of JSON web logs, custom SPL queries, status code analytics, and Choropleth mapping. | `Splunk` `SPL` `Apache` |
-| [**Splunk SIEM Deployment**](https://github.com/RootCipherX/cybersecurity-splunk-enterprise-deployment) | Local SIEM instance provisioning, Windows service binding, and baseline analytics workspace. | `Splunk Enterprise` `Windows` |
+| [**AWS Delegated Admin & IAM MFA Hardening**](https://github.com/RootCipherX/aws-iam-delegated-admin-mfa-hardening) | Root user lockout mitigation, AdministratorAccess group federation, credential rotation, and IAM MFA enforcement. | `AWS IAM` `CloudSec` `TOTP MFA` |
+| [**AWS Root Account MFA Hardening**](https://github.com/RootCipherX/aws-root-account-mfa-hardening) | Root credential protection, virtual TOTP authenticator setup, and CIS Benchmark v3.0 compliance checks. | `AWS Console` `CloudSec` `IAM` |
+
+#### 🛡️ SIEM, Telemetry & Detection Operations
+
+| Repository | Focus & Methodology | Primary Tech |
+| :--- | :--- | :--- |
+| [**Splunk SSH Log Analysis**](https://github.com/RootCipherX/cybersecurity-splunk-ssh-log-analysis) | Authentication log auditing, brute-force detection, targeted user triage, and geographic IP mapping. | `Splunk` `SPL` `SSH` `Log Analysis` |
+| [**Splunk Apache Log Analysis**](https://github.com/RootCipherX/cybersecurity-splunk-apache-log-analysis) | Ingestion of JSON web logs, custom SPL queries, HTTP status code analytics, and Choropleth mapping. | `Splunk` `SPL` `Apache` |
+| [**Splunk SIEM Deployment**](https://github.com/RootCipherX/cybersecurity-splunk-enterprise-deployment) | Local SIEM instance provisioning, Windows service binding, and baseline analytics workspace setup. | `Splunk Enterprise` `Windows` |
 | [**Wazuh File Integrity Monitoring**](https://github.com/RootCipherX/cybersecurity-wazuh-file-integrity-monitoring) | Real-time inotify file monitoring, cryptographic checksum diffs, and MITRE ATT&CK correlation. | `Wazuh` `inotify` `Syscheck` |
 | [**Wazuh Kali Agent Deployment**](https://github.com/RootCipherX/cybersecurity-wazuh-agent-kali-deployment) | Monitored endpoint provisioning, systemd automation, and UFW server port rules. | `Wazuh Agent` `Linux` `UFW` |
 | [**Wazuh XDR & SIEM Deployment**](https://github.com/RootCipherX/cybersecurity-wazuh-xdr-deployment) | Complete central stack provisioning, service validation, and UFW firewall troubleshooting. | `Wazuh Server` `Ubuntu` `XDR` |
-| [**Sysmon Threat Hunting Guide**](https://github.com/RootCipherX/cybersecurity-sysmon-threat-hunting-guide) | Detection engineering field guide for process trees, memory access, and C2 communication. | `Sysmon` `KQL` `Threat Hunting` |
-| [**Windows Event ID Guide**](https://github.com/RootCipherX/cybersecurity-windows-event-id-analyst-guide) | SOC operational handbook mapping core Windows security IDs to SIEM query parameters. | `Active Directory` `WinEventLog` |
+| [**Sysmon Threat Hunting Guide**](https://github.com/RootCipherX/cybersecurity-sysmon-threat-hunting-guide) | Detection engineering field guide covering process trees, memory access, and C2 communication. | `Sysmon` `KQL` `Windows Telemetry` |
+| [**Windows Event ID Guide**](https://github.com/RootCipherX/cybersecurity-windows-event-id-analyst-guide) | Operational reference mapping core Windows security IDs to SIEM query parameters. | `Active Directory` `WinEventLog` |
 
-#### ⚔️ Offensive Security & Vulnerability Assessment
+#### ⚔️ Vulnerability Assessment & Web Security
 
 | Repository | Focus & Methodology | Primary Tech |
 | :--- | :--- | :--- |
-| [**PortSwigger Username Enumeration**](https://github.com/RootCipherX/cybersecurity-portswigger-username-enumeration-via-different-responses) | Exploiting authentication response differentials and password brute-forcing with Burp Intruder. | `Burp Suite` `AppSec` `Web Security` |
+| [**PortSwigger Username Enumeration**](https://github.com/RootCipherX/portswigger-username-enumeration-via-different-responses) | Exploiting authentication response differentials and password brute-forcing using Burp Intruder. | `Burp Suite` `AppSec` `Web Security` |
 | [**Metasploit Exploitation**](https://github.com/RootCipherX/cybersecurity-metasploit-vulnerability-assessment) | Service vulnerability analysis, multi-stage payload delivery, and post-exploitation triage. | `Metasploit` `Kali Linux` |
 | [**DVWA File Inclusion Analysis**](https://github.com/RootCipherX/cybersecurity-dvwa-file-inclusion-analysis) | Hands-on execution and defensive auditing of Local (LFI) and Remote (RFI) inclusion flaws. | `PHP` `AppSec` `Web Security` |
 | [**DVWA Enterprise LAMP Setup**](https://github.com/RootCipherX/cybersecurity-dvwa-lamp-deployment) | Deploying vulnerable web architectures on Apache, MariaDB, and hardened PHP runtimes. | `LAMP Stack` `Linux` `Database` |
