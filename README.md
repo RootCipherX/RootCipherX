@@ -164,7 +164,7 @@ My current focus is on **Network Security, SIEM Operations, Cloud Identity (IAM)
 | :--- | :--- | :--- |
 | [**Snort IDS Traffic Analysis**](https://github.com/RootCipherX/cybersecurity-snort-ids-configuration) | Network tap configuration, signature writing, and real-time malicious packet detection. | `Snort IDS` `Packet Analysis` |
 | [**Wireshark Installation & Hardening**](https://github.com/RootCipherX/cybersecurity-wireshark-installation-guide) | Packet capture optimization and securing packet sniffers with non-root capability drops. | `Wireshark` `Linux Hardening` |
-| [**Burp Suite Environment Maintenance**](https://github.com/RootCipherX/cybersecurity-burpsuite-environment-reset) | Advanced package state resolution, dependency troubleshooting, and clean deployments. | `Burp Suite` `Debian` |
+| [**Burp Suite Environment Maintenance**](https://github.com/RootCipherX/cybersecurity-burpsuite-clean-installation-environment-reset) | Advanced package state resolution, dependency troubleshooting, and clean deployments. | `Burp Suite` `Debian` |
 
 ---
 
