@@ -135,6 +135,16 @@ My current focus is on **Network Security, SIEM Operations, Cloud Identity (IAM)
 | [**AWS Delegated Admin & IAM MFA Hardening**](https://github.com/RootCipherX/aws-iam-delegated-admin-mfa-hardening) | Root user lockout mitigation, AdministratorAccess group federation, credential rotation, and IAM MFA enforcement. | `AWS IAM` `CloudSec` `TOTP MFA` |
 | [**AWS Root Account MFA Hardening**](https://github.com/RootCipherX/aws-root-account-mfa-hardening) | Root credential protection, virtual TOTP authenticator setup, and CIS Benchmark v3.0 compliance checks. | `AWS Console` `CloudSec` `IAM` |
 
+
+#### ☁️ Cloud Security & Infrastructure (AWS)
+
+| Repository | Focus & Methodology | Primary Tech |
+| :--- | :--- | :--- |
+| [**AWS EC2 Linux Web Server Deployment**](https://github.com/RootCipherX/aws-ec2-linux-webserver-deployment) | Amazon Linux 2023 provisioning, automated Apache bootstrapping via User Data, SSH key triage, and teardown. | `AWS EC2` `Cloud` `Apache` `Bash` |
+| [**AWS Delegated Admin & IAM MFA Hardening**](https://github.com/RootCipherX/aws-iam-delegated-admin-mfa-hardening) | Root user lockout mitigation, AdministratorAccess group federation, credential rotation, and IAM MFA enforcement. | `AWS IAM` `CloudSec` `TOTP MFA` |
+| [**AWS Root Account MFA Hardening**](https://github.com/RootCipherX/aws-root-account-mfa-hardening) | Root credential protection, virtual TOTP authenticator setup, and CIS Benchmark v3.0 compliance checks. | `AWS Console` `CloudSec` `IAM` |
+
+
 #### 🛡️ SIEM, Telemetry & Detection Operations
 
 | Repository | Focus & Methodology | Primary Tech |
