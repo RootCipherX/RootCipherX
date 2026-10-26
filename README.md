@@ -128,13 +128,6 @@ My current focus is on **Network Security, SIEM Operations, Cloud Identity (IAM)
 
 ### 🔒 Hands-on Cybersecurity Lab Portfolio
 
-#### ☁️ Cloud Security & Identity Management (IAM)
-
-| Repository | Focus & Methodology | Primary Tech |
-| :--- | :--- | :--- |
-| [**AWS Delegated Admin & IAM MFA Hardening**](https://github.com/RootCipherX/aws-iam-delegated-admin-mfa-hardening) | Root user lockout mitigation, AdministratorAccess group federation, credential rotation, and IAM MFA enforcement. | `AWS IAM` `CloudSec` `TOTP MFA` |
-| [**AWS Root Account MFA Hardening**](https://github.com/RootCipherX/aws-root-account-mfa-hardening) | Root credential protection, virtual TOTP authenticator setup, and CIS Benchmark v3.0 compliance checks. | `AWS Console` `CloudSec` `IAM` |
-
 
 #### ☁️ Cloud Security & Infrastructure (AWS)
 
